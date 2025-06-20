@@ -1,0 +1,21 @@
+{
+  "name": "tailwindcss-theme",
+  "version": "1.0.0",
+  "description": "Tailwind setup with simple installation",
+  "license": "ISC",
+  "author": "Manu Morante",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/index.css -o ./dist/styles.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.13"
+  }
+}
