@@ -1,11 +1,11 @@
-# tailwindcss-theme
+# manumorante-theme
 
 Theme setup for my brand.
 
 ## Installation
 
 ```sh
-npm install tailwindcss-theme
+npm install @estadologico/manumorante-theme
 ```
 
 ## Usage

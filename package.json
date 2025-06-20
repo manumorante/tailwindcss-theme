@@ -1,9 +1,10 @@
 {
   "name": "@estadologico/manumorante-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwindcss theme for manumorante website.",
   "license": "ISC",
   "author": "Manu Morante",
+  "keywords": ["tailwindcss", "theme", "style-guide", "ui"],
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
