@@ -8,6 +8,6 @@ Theme setup for my brand.
 npm install @estadologico/manumorante-theme
 ```
 
-## Usage
+## Theme preview
 
-...
+![Theme preview](src/assets/screenshot.png)
