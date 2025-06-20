@@ -1,7 +1,7 @@
 {
-  "name": "tailwindcss-theme",
+  "name": "@estadologico/manumorante-theme",
   "version": "1.0.0",
-  "description": "Tailwind setup with simple installation",
+  "description": "Tailwindcss theme for manumorante website.",
   "license": "ISC",
   "author": "Manu Morante",
   "type": "commonjs",
